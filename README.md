@@ -1,2 +1,2 @@
-# multithread_ops
+# multithread-ops
 Multithreaded operations in C++
